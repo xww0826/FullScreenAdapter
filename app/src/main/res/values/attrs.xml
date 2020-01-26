@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FullLinearLayout">
+        <attr name="layout_linear_widthPixel" format="integer" />
+        <attr name="layout_linear_heightPixel" format="integer" />
+        <attr name="layout_linear_leftMarginPixel" format="integer" />
+        <attr name="layout_linear_topMarginPixel" format="integer" />
+        <attr name="layout_linear_rightMarginPixel" format="integer" />
+        <attr name="layout_linear_bottomMarginPixel" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="FullRelativeLayout">
+        <attr name="layout_relative_widthPixel" format="integer" />
+        <attr name="layout_relative_heightPixel" format="integer" />
+        <attr name="layout_relative_leftMarginPixel" format="integer" />
+        <attr name="layout_relative_topMarginPixel" format="integer" />
+        <attr name="layout_relative_rightMarginPixel" format="integer" />
+        <attr name="layout_relative_bottomMarginPixel" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="FullFrameLayout">
+        <attr name="layout_frame_widthPixel" format="integer" />
+        <attr name="layout_frame_heightPixel" format="integer" />
+        <attr name="layout_frame_leftMarginPixel" format="integer" />
+        <attr name="layout_frame_topMarginPixel" format="integer" />
+        <attr name="layout_frame_rightMarginPixel" format="integer" />
+        <attr name="layout_frame_bottomMarginPixel" format="integer" />
+    </declare-styleable>
+</resources>
